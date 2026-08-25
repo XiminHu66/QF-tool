@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T16:31:55-07:00",
+  "updatedAt": "2026-08-25T16:44:19-07:00",
   "marketMode": "顶部震荡 · 等待更好赔率",
   "quotes": [
     {
@@ -35,57 +35,57 @@
   ],
   "deals": [
     {
+      "title": "24L Lovevook Clear PVC School Backpack w/ Cup Holder & 15.6\" Laptop Compartment $10",
+      "price": "$10",
+      "originalPrice": "购买前核价",
+      "discount": 0,
+      "source": "Slickdeals",
+      "url": "https://slickdeals.net/f/19924338-24l-lovelook-clear-pvc-school-backpack-w-large-cup-holder-15-6-laptop-compartment-black-purple-or-pink-9-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "note": "社区热度收录；购买前请核对历史价格、库存和退货条件。"
+    },
+    {
+      "title": "The North Face Jester Everyday Laptop Backpack + Earn 10% Back w/ Prime Visa $54 + Free S&H",
+      "price": "$54",
+      "originalPrice": "购买前核价",
+      "discount": 0,
+      "source": "Slickdeals",
+      "url": "https://slickdeals.net/f/19923180-54-the-north-face-jester-everyday-laptop-backpack-10-back-w-prime-visa-card-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "note": "社区热度收录；购买前请核对历史价格、库存和退货条件。"
+    },
+    {
+      "title": "24-Piece CRAFTSMAN 3/8 Inch Drive SAE Mechanics Tool Set $20",
+      "price": "$20",
+      "originalPrice": "购买前核价",
+      "discount": 0,
+      "source": "Slickdeals",
+      "url": "https://slickdeals.net/f/19915341-craftsman-versastack-24-piece-3-8-drive-metric-mechanics-tool-set-w-hard-case-cmmt12111-19-98-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "note": "社区热度收录；购买前请核对历史价格、库存和退货条件。"
+    },
+    {
+      "title": "Final Fantasy VII Rebirth Exclusive Amazon Edition (PS5) $20",
+      "price": "$20",
+      "originalPrice": "购买前核价",
+      "discount": 0,
+      "source": "Slickdeals",
+      "url": "https://slickdeals.net/f/19923498-19-99-final-fantasy-vii-rebirth-exclusive-amazon-edition-ps5-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "note": "社区热度收录；购买前请核对历史价格、库存和退货条件。"
+    },
+    {
+      "title": "Keter Signature Everwood 50-Gallon Outdoor Storage Box for $70 + free shipping",
+      "price": "$70",
+      "originalPrice": "购买前核价",
+      "discount": 0,
+      "source": "DealNews",
+      "url": "https://www.dealnews.com/products/Keter/Keter-Signature-Everwood-50-Gallon-Outdoor-Storage-Box/525240.html?iref=rss",
+      "note": "社区热度收录；购买前请核对历史价格、库存和退货条件。"
+    },
+    {
       "title": "Anker 7-in-1 USB-C Nano Charging Station for $60 + free shipping",
       "price": "$60",
       "originalPrice": "购买前核价",
       "discount": 0,
       "source": "DealNews",
       "url": "https://www.dealnews.com/products/Anker/Anker-7-in-1-USB-C-Nano-Charging-Station/497081.html?iref=rss",
-      "note": "社区热度收录；购买前请核对历史价格、库存和退货条件。"
-    },
-    {
-      "title": "Target Vacuum & Carpet Cleaner Deals: Up to 60% off + free shipping",
-      "price": "查看价格",
-      "originalPrice": "购买前核价",
-      "discount": 60,
-      "source": "DealNews",
-      "url": "https://www.dealnews.com/Target-Vacuum-Carpet-Cleaner-Deals-Up-to-60-off-free-shipping/22094210.html?iref=rss",
-      "note": "社区热度收录；购买前请核对历史价格、库存和退货条件。"
-    },
-    {
-      "title": "Anker Prime 100W 3-Port GaN Charger for $40 + free shipping",
-      "price": "$40",
-      "originalPrice": "购买前核价",
-      "discount": 0,
-      "source": "DealNews",
-      "url": "https://www.dealnews.com/products/Anker/Anker-Prime-100-W-3-Port-Ga-N-Charger/516093.html?iref=rss",
-      "note": "社区热度收录；购买前请核对历史价格、库存和退货条件。"
-    },
-    {
-      "title": "Major Fitness B52 Machine Home Gym for $1,200 + free shipping",
-      "price": "$1,200",
-      "originalPrice": "购买前核价",
-      "discount": 0,
-      "source": "DealNews",
-      "url": "https://www.dealnews.com/products/Major-Fitness/Major-Fitness-B52-Machine-Home-Gym/524487.html?iref=rss",
-      "note": "社区热度收录；购买前请核对历史价格、库存和退货条件。"
-    },
-    {
-      "title": "Shintenchi 5x3-Foot Outdoor Storage Shed for $105 + free shipping",
-      "price": "$105",
-      "originalPrice": "购买前核价",
-      "discount": 0,
-      "source": "DealNews",
-      "url": "https://www.dealnews.com/Shintenchi-5-x3-Foot-Outdoor-Storage-Shed-for-105-free-shipping/22094181.html?iref=rss",
-      "note": "社区热度收录；购买前请核对历史价格、库存和退货条件。"
-    },
-    {
-      "title": "KRK ROKIT 5 Generation Five 5\" Powered Studio Monitor for $149 + free shipping",
-      "price": "$149",
-      "originalPrice": "购买前核价",
-      "discount": 0,
-      "source": "DealNews",
-      "url": "https://www.dealnews.com/KRK-ROKIT-5-Generation-Five-5-Powered-Studio-Monitor-for-149-free-shipping/22094168.html?iref=rss",
       "note": "社区热度收录；购买前请核对历史价格、库存和退货条件。"
     }
   ],
@@ -125,8 +125,8 @@
     {
       "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
       "source": "Hacker News 需求信号",
-      "score": 79,
-      "signal": "21 points · 3 comments；关键词：looking for",
+      "score": 81,
+      "signal": "26 points · 5 comments；关键词：looking for",
       "angle": "先验证重复痛点，再用轻量网页、数据报告或自动化工具切入。",
       "url": "https://github.com/swimmingbrain/texbrain"
     },
