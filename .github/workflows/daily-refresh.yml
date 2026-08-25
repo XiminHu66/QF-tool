@@ -2,6 +2,8 @@ name: Daily 8AM data refresh
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
   schedule:
     - cron: "0 8 * * *"
       timezone: "America/Los_Angeles"
@@ -15,6 +17,7 @@ concurrency:
 
 jobs:
   refresh-data:
+    if: github.event_name != 'push' || github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
