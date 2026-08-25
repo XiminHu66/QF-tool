@@ -1,0 +1,147 @@
+{
+  "updatedAt": "2026-08-25T16:31:55-07:00",
+  "marketMode": "顶部震荡 · 等待更好赔率",
+  "quotes": [
+    {
+      "symbol": "NVDA",
+      "price": 181.24,
+      "change": 1.7,
+      "target": 225
+    },
+    {
+      "symbol": "AMD",
+      "price": 169.7,
+      "change": -0.8,
+      "target": 215
+    },
+    {
+      "symbol": "AVGO",
+      "price": 356.42,
+      "change": 0.9,
+      "target": 410
+    },
+    {
+      "symbol": "SMH",
+      "price": 372.18,
+      "change": 0.4,
+      "target": 430
+    },
+    {
+      "symbol": "QQQ",
+      "price": 618.33,
+      "change": 0.2,
+      "target": 690
+    }
+  ],
+  "deals": [
+    {
+      "title": "Anker 7-in-1 USB-C Nano Charging Station for $60 + free shipping",
+      "price": "$60",
+      "originalPrice": "购买前核价",
+      "discount": 0,
+      "source": "DealNews",
+      "url": "https://www.dealnews.com/products/Anker/Anker-7-in-1-USB-C-Nano-Charging-Station/497081.html?iref=rss",
+      "note": "社区热度收录；购买前请核对历史价格、库存和退货条件。"
+    },
+    {
+      "title": "Target Vacuum & Carpet Cleaner Deals: Up to 60% off + free shipping",
+      "price": "查看价格",
+      "originalPrice": "购买前核价",
+      "discount": 60,
+      "source": "DealNews",
+      "url": "https://www.dealnews.com/Target-Vacuum-Carpet-Cleaner-Deals-Up-to-60-off-free-shipping/22094210.html?iref=rss",
+      "note": "社区热度收录；购买前请核对历史价格、库存和退货条件。"
+    },
+    {
+      "title": "Anker Prime 100W 3-Port GaN Charger for $40 + free shipping",
+      "price": "$40",
+      "originalPrice": "购买前核价",
+      "discount": 0,
+      "source": "DealNews",
+      "url": "https://www.dealnews.com/products/Anker/Anker-Prime-100-W-3-Port-Ga-N-Charger/516093.html?iref=rss",
+      "note": "社区热度收录；购买前请核对历史价格、库存和退货条件。"
+    },
+    {
+      "title": "Major Fitness B52 Machine Home Gym for $1,200 + free shipping",
+      "price": "$1,200",
+      "originalPrice": "购买前核价",
+      "discount": 0,
+      "source": "DealNews",
+      "url": "https://www.dealnews.com/products/Major-Fitness/Major-Fitness-B52-Machine-Home-Gym/524487.html?iref=rss",
+      "note": "社区热度收录；购买前请核对历史价格、库存和退货条件。"
+    },
+    {
+      "title": "Shintenchi 5x3-Foot Outdoor Storage Shed for $105 + free shipping",
+      "price": "$105",
+      "originalPrice": "购买前核价",
+      "discount": 0,
+      "source": "DealNews",
+      "url": "https://www.dealnews.com/Shintenchi-5-x3-Foot-Outdoor-Storage-Shed-for-105-free-shipping/22094181.html?iref=rss",
+      "note": "社区热度收录；购买前请核对历史价格、库存和退货条件。"
+    },
+    {
+      "title": "KRK ROKIT 5 Generation Five 5\" Powered Studio Monitor for $149 + free shipping",
+      "price": "$149",
+      "originalPrice": "购买前核价",
+      "discount": 0,
+      "source": "DealNews",
+      "url": "https://www.dealnews.com/KRK-ROKIT-5-Generation-Five-5-Powered-Studio-Monitor-for-149-free-shipping/22094168.html?iref=rss",
+      "note": "社区热度收录；购买前请核对历史价格、库存和退货条件。"
+    }
+  ],
+  "opportunities": [
+    {
+      "title": "A website for debloated open source alternatives",
+      "source": "Hacker News 需求信号",
+      "score": 95,
+      "signal": "404 points · 128 comments；关键词：alternative",
+      "angle": "先验证重复痛点，再用轻量网页、数据报告或自动化工具切入。",
+      "url": "https://debloat.dev/"
+    },
+    {
+      "title": "Show HN: Open-source Stripe Connect alternative",
+      "source": "Hacker News 需求信号",
+      "score": 91,
+      "signal": "83 points · 36 comments；关键词：alternative",
+      "angle": "先验证重复痛点，再用轻量网页、数据报告或自动化工具切入。",
+      "url": "https://zoneless.com"
+    },
+    {
+      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+      "source": "Hacker News 需求信号",
+      "score": 88,
+      "signal": "81 points · 15 comments；关键词：looking for",
+      "angle": "先验证重复痛点，再用轻量网页、数据报告或自动化工具切入。",
+      "url": "https://github.com/ThinkOffApp/CarWatch"
+    },
+    {
+      "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents",
+      "source": "Hacker News 需求信号",
+      "score": 84,
+      "signal": "37 points · 10 comments；关键词：too expensive",
+      "angle": "先验证重复痛点，再用轻量网页、数据报告或自动化工具切入。",
+      "url": "https://demo.frugaltokens.com/"
+    },
+    {
+      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+      "source": "Hacker News 需求信号",
+      "score": 79,
+      "signal": "21 points · 3 comments；关键词：looking for",
+      "angle": "先验证重复痛点，再用轻量网页、数据报告或自动化工具切入。",
+      "url": "https://github.com/swimmingbrain/texbrain"
+    },
+    {
+      "title": "Is AI slowing you down?",
+      "source": "Hacker News 需求信号",
+      "score": 78,
+      "signal": "12 points · 6 comments；关键词：looking for",
+      "angle": "先验证重复痛点，再用轻量网页、数据报告或自动化工具切入。",
+      "url": "https://news.ycombinator.com/item?id=49438590"
+    }
+  ],
+  "macro": {
+    "fedFunds": 4.33,
+    "treasury10y": 4.18,
+    "inflation": 3.5
+  }
+}
