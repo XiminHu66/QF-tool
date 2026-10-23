@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T12:05:44-07:00",
+  "updatedAt": "2026-10-23T11:56:55-07:00",
   "marketMode": "顶部震荡 · 等待更好赔率",
   "quotes": [
     {
@@ -35,57 +35,48 @@
   ],
   "deals": [
     {
-      "title": "MicroCenter: PowerSpec G536 Gaming PC: Ryzen 5 7500X3D, 32GB DDR5, RTX 5070, 1TB SSD $1500 (In-Store Only)",
-      "price": "$1500",
+      "title": "2' 4-Port UGREEN USB-C to USB-A 3.0 Expander Hub $9",
+      "price": "$9",
       "originalPrice": "购买前核价",
       "discount": 0,
       "source": "Slickdeals",
-      "url": "https://slickdeals.net/f/20192340-powerspec-g536-gaming-pc-ryzen-5-7500x3d-rtx-5070-32gb-ddr5-1tb-ssd-1499-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20195955-2-4-port-ugreen-usb-c-to-usb-a-3-0-hub-5gbps-8-98-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "note": "社区热度收录；购买前请核对历史价格、库存和退货条件。"
     },
     {
-      "title": "13.6″ Apple MacBook Air Laptop: M5 Chip, 16GB RAM, 512GB SSD $1150 + Free S&H",
-      "price": "$1150",
+      "title": "SEESII 20V Cordless Drill & Home Tool Kit w/ 2000mAh Battery & Charger $32.40 + Free S&H",
+      "price": "$32.40",
       "originalPrice": "购买前核价",
       "discount": 0,
       "source": "Slickdeals",
-      "url": "https://slickdeals.net/f/20191437-1149-99-13-inch-apple-macbook-air-laptop-with-m5-chip-16gb-ram-512gb-ssd-silver-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20032542-seesii-20v-cordless-drill-home-tool-kit-w-2000mah-battery-charger-32-39-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "note": "社区热度收录；购买前请核对历史价格、库存和退货条件。"
     },
     {
-      "title": "4\" x 6\" Phomemo Smart Touchscreen Thermal Label Printer (Black) $50 + Free S&H",
-      "price": "$50",
+      "title": "KEH Camera Overstock Sale: Up to 40% off + Extra 10% off + free shipping w/ $75",
+      "price": "$75",
       "originalPrice": "购买前核价",
-      "discount": 0,
-      "source": "Slickdeals",
-      "url": "https://slickdeals.net/f/20050443-4-x-6-phomemo-pm64d-thermal-shipping-label-printer-w-touchscreen-bluetooth-usb-49-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "discount": 40,
+      "source": "DealNews",
+      "url": "https://www.dealnews.com/KEH-Camera-Overstock-Sale-Up-to-40-off-Extra-10-off-free-shipping-w-75/22308219.html?iref=rss",
       "note": "社区热度收录；购买前请核对历史价格、库存和退货条件。"
     },
     {
-      "title": "3-Pc Kobalt CASESTACK Modular Tool Box Tower Set $149 + Free S&H",
-      "price": "$149",
-      "originalPrice": "购买前核价",
-      "discount": 0,
-      "source": "Slickdeals",
-      "url": "https://slickdeals.net/f/20188269-kobalt-casestack-3-piece-modular-tool-box-tower-set-in-black-410-222-0131-149-at-lowe-s?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "note": "社区热度收录；购买前请核对历史价格、库存和退货条件。"
-    },
-    {
-      "title": "JLab Go Sport+ True Wireless Bluetooth Sport Earbuds for $20 + free shipping w/ Prime",
-      "price": "$20",
+      "title": "Klke Open-Ear Bone Conduction Headphones for $19 + free shipping w/ Prime",
+      "price": "$19",
       "originalPrice": "购买前核价",
       "discount": 0,
       "source": "DealNews",
-      "url": "https://www.dealnews.com/JLab-Go-Sport-True-Wireless-Bluetooth-Sport-Earbuds-for-20-free-shipping-w-Prime/22305080.html?iref=rss",
+      "url": "https://www.dealnews.com/products/KLKE/Klke-Open-Ear-Bone-Conduction-Headphones/498491.html?iref=rss",
       "note": "社区热度收录；购买前请核对历史价格、库存和退货条件。"
     },
     {
-      "title": "Wireless Sports Car Optical Mouse: 1-Cent + free shipping w/ Prime",
-      "price": "查看价格",
+      "title": "AceMagician W1 Ryzen 7 H 255 Mini Desktop PC for $530 w/ Prime + free shipping",
+      "price": "$530",
       "originalPrice": "购买前核价",
       "discount": 0,
       "source": "DealNews",
-      "url": "https://www.dealnews.com/Wireless-Sports-Car-Optical-Mouse-1-Cent-free-shipping-w-Prime/22305034.html?iref=rss",
+      "url": "https://www.dealnews.com/Ace-Magician-W1-Ryzen-7-H-255-Mini-Desktop-PC-for-530-w-Prime-free-shipping/22308109.html?iref=rss",
       "note": "社区热度收录；购买前请核对历史价格、库存和退货条件。"
     }
   ],
@@ -94,33 +85,25 @@
       "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
       "source": "Hacker News 需求信号",
       "score": 93,
-      "signal": "107 points · 66 comments；关键词：too expensive",
+      "signal": "110 points · 66 comments；关键词：too expensive",
       "angle": "先验证重复痛点，再用轻量网页、数据报告或自动化工具切入。",
       "url": "https://deathplanswitch.com/"
     },
     {
       "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
       "source": "Hacker News 需求信号",
-      "score": 91,
-      "signal": "107 points · 31 comments；关键词：alternative",
+      "score": 92,
+      "signal": "111 points · 34 comments；关键词：alternative",
       "angle": "先验证重复痛点，再用轻量网页、数据报告或自动化工具切入。",
       "url": "https://github.com/omnara-ai/omnara"
     },
     {
       "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
       "source": "Hacker News 需求信号",
-      "score": 90,
-      "signal": "66 points · 37 comments；关键词：too expensive",
+      "score": 91,
+      "signal": "68 points · 48 comments；关键词：too expensive",
       "angle": "先验证重复痛点，再用轻量网页、数据报告或自动化工具切入。",
       "url": "https://alterauth.com/"
-    },
-    {
-      "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
-      "source": "Hacker News 需求信号",
-      "score": 89,
-      "signal": "91 points · 16 comments；关键词：wish there was",
-      "angle": "先验证重复痛点，再用轻量网页、数据报告或自动化工具切入。",
-      "url": "https://news.ycombinator.com/item?id=50193416"
     },
     {
       "title": "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces",
@@ -129,6 +112,14 @@
       "signal": "59 points · 31 comments；关键词：too expensive",
       "angle": "先验证重复痛点，再用轻量网页、数据报告或自动化工具切入。",
       "url": "https://news.ycombinator.com/item?id=50154029"
+    },
+    {
+      "title": "Ask HN: Dark mode for HN please? (2026)",
+      "source": "Hacker News 需求信号",
+      "score": 84,
+      "signal": "28 points · 14 comments；关键词：too expensive",
+      "angle": "先验证重复痛点，再用轻量网页、数据报告或自动化工具切入。",
+      "url": "https://news.ycombinator.com/item?id=50160116"
     },
     {
       "title": "Ask HN: Does anyone else just want to disconnect from everything?",
