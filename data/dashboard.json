@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T11:56:55-07:00",
+  "updatedAt": "2026-10-24T11:02:52-07:00",
   "marketMode": "顶部震荡 · 等待更好赔率",
   "quotes": [
     {
@@ -35,48 +35,57 @@
   ],
   "deals": [
     {
-      "title": "2' 4-Port UGREEN USB-C to USB-A 3.0 Expander Hub $9",
-      "price": "$9",
+      "title": "3-Pk 32-Oz Amazon Fresh 35% Less Sodium Chicken Broth $3.30 w/ S&S & More",
+      "price": "$3.30",
       "originalPrice": "购买前核价",
       "discount": 0,
       "source": "Slickdeals",
-      "url": "https://slickdeals.net/f/20195955-2-4-port-ugreen-usb-c-to-usb-a-3-0-hub-5gbps-8-98-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20199243-3-31-3-pk-32-oz-amazon-fresh-35-less-sodium-chicken-broth-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "note": "社区热度收录；购买前请核对历史价格、库存和退货条件。"
     },
     {
-      "title": "SEESII 20V Cordless Drill & Home Tool Kit w/ 2000mAh Battery & Charger $32.40 + Free S&H",
-      "price": "$32.40",
+      "title": "Select Costco Stores: 40-Oz Neutrogena Rainbath Shower Gel (Ocean Mist) $10 (In-Store Only)",
+      "price": "$10",
       "originalPrice": "购买前核价",
       "discount": 0,
       "source": "Slickdeals",
-      "url": "https://slickdeals.net/f/20032542-seesii-20v-cordless-drill-home-tool-kit-w-2000mah-battery-charger-32-39-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/20198586-costco-instore-97-clearanace-neutrogena-rainbath-shower-gel-40-fl-oz-item-1121864-9-97-was-24-99-60-off?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "note": "社区热度收录；购买前请核对历史价格、库存和退货条件。"
     },
     {
-      "title": "KEH Camera Overstock Sale: Up to 40% off + Extra 10% off + free shipping w/ $75",
-      "price": "$75",
-      "originalPrice": "购买前核价",
-      "discount": 40,
-      "source": "DealNews",
-      "url": "https://www.dealnews.com/KEH-Camera-Overstock-Sale-Up-to-40-off-Extra-10-off-free-shipping-w-75/22308219.html?iref=rss",
-      "note": "社区热度收录；购买前请核对历史价格、库存和退货条件。"
-    },
-    {
-      "title": "Klke Open-Ear Bone Conduction Headphones for $19 + free shipping w/ Prime",
-      "price": "$19",
+      "title": "Costco Members: 2-Pk $50 Panera Bread eGift Card (Email Delivery) $80",
+      "price": "$50",
       "originalPrice": "购买前核价",
       "discount": 0,
-      "source": "DealNews",
-      "url": "https://www.dealnews.com/products/KLKE/Klke-Open-Ear-Bone-Conduction-Headphones/498491.html?iref=rss",
+      "source": "Slickdeals",
+      "url": "https://slickdeals.net/f/20200995-costco-members-2-pk-50-panera-bread-egift-card-email-delivery-80?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "note": "社区热度收录；购买前请核对历史价格、库存和退货条件。"
     },
     {
-      "title": "AceMagician W1 Ryzen 7 H 255 Mini Desktop PC for $530 w/ Prime + free shipping",
-      "price": "$530",
+      "title": "Pyle 48\" Under Desk Cable Management Tray (20 lb Capacity) $27",
+      "price": "$27",
       "originalPrice": "购买前核价",
       "discount": 0,
-      "source": "DealNews",
-      "url": "https://www.dealnews.com/Ace-Magician-W1-Ryzen-7-H-255-Mini-Desktop-PC-for-530-w-Prime-free-shipping/22308109.html?iref=rss",
+      "source": "Slickdeals",
+      "url": "https://slickdeals.net/f/20201466-pyle-48-under-desk-cable-tray-20-lb-capacity-black-26-99-free-s-h-w-prime-or-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "note": "社区热度收录；购买前请核对历史价格、库存和退货条件。"
+    },
+    {
+      "title": "25\" LG UltraGear G5 1920x1080 200Hz 1ms IPS Gaming Monitor $79 + Free S&H",
+      "price": "$79",
+      "originalPrice": "购买前核价",
+      "discount": 0,
+      "source": "Slickdeals",
+      "url": "https://slickdeals.net/f/20200968-25-lg-ultragear-g5-1920x1080-fhd-ips-200hz-gaming-monitor-79-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "note": "社区热度收录；购买前请核对历史价格、库存和退货条件。"
+    },
+    {
+      "title": "2-Pk 6.6' 60W Ainope USB-C to USB-C Right Angle Fast Charging Cable $5",
+      "price": "$5",
+      "originalPrice": "购买前核价",
+      "discount": 0,
+      "source": "Slickdeals",
+      "url": "https://slickdeals.net/f/20197200-2-pk-6-6ft-60w-ainope-usb-c-to-usb-c-90-right-angle-fast-charging-cable-grey-4-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "note": "社区热度收录；购买前请核对历史价格、库存和退货条件。"
     }
   ],
@@ -90,20 +99,28 @@
       "url": "https://deathplanswitch.com/"
     },
     {
-      "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
       "source": "Hacker News 需求信号",
       "score": 92,
-      "signal": "111 points · 34 comments；关键词：alternative",
+      "signal": "119 points · 40 comments；关键词：wish there was",
       "angle": "先验证重复痛点，再用轻量网页、数据报告或自动化工具切入。",
-      "url": "https://github.com/omnara-ai/omnara"
+      "url": "https://corgi.computer/"
     },
     {
       "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
       "source": "Hacker News 需求信号",
       "score": 91,
-      "signal": "68 points · 48 comments；关键词：too expensive",
+      "signal": "68 points · 51 comments；关键词：too expensive",
       "angle": "先验证重复痛点，再用轻量网页、数据报告或自动化工具切入。",
       "url": "https://alterauth.com/"
+    },
+    {
+      "title": "Show HN: Swurf – Swipe through the real web",
+      "source": "Hacker News 需求信号",
+      "score": 90,
+      "signal": "72 points · 35 comments；关键词：looking for",
+      "angle": "先验证重复痛点，再用轻量网页、数据报告或自动化工具切入。",
+      "url": "https://swurf.org/"
     },
     {
       "title": "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces",
@@ -117,17 +134,9 @@
       "title": "Ask HN: Dark mode for HN please? (2026)",
       "source": "Hacker News 需求信号",
       "score": 84,
-      "signal": "28 points · 14 comments；关键词：too expensive",
+      "signal": "32 points · 14 comments；关键词：too expensive",
       "angle": "先验证重复痛点，再用轻量网页、数据报告或自动化工具切入。",
       "url": "https://news.ycombinator.com/item?id=50160116"
-    },
-    {
-      "title": "Ask HN: Does anyone else just want to disconnect from everything?",
-      "source": "Hacker News 需求信号",
-      "score": 83,
-      "signal": "16 points · 23 comments；关键词：too expensive",
-      "angle": "先验证重复痛点，再用轻量网页、数据报告或自动化工具切入。",
-      "url": "https://news.ycombinator.com/item?id=50176363"
     }
   ],
   "macro": {
