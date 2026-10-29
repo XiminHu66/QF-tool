@@ -1,3 +1,9 @@
+async function fetchCanonicalSnapshot(primary, fallback) {
+  for (const url of [primary, fallback]) {
+    try { const response = await fetch(url, { cache: "no-store" }); if (response.ok) return response; } catch {}
+  }
+  throw new Error("数据暂时无法读取，请稍后重试");
+}
 const fallback = {
   updatedAt: "2026-08-25T15:00:00-07:00",
   marketMode: "顶部震荡 · 等待更好赔率",
@@ -65,7 +71,7 @@ function renderData(data) {
 async function refresh() {
   $("refresh").disabled = true;
   try {
-    const response = await fetch(`./data/dashboard.json?t=${Date.now()}`, { cache: "no-store" });
+    const response = await fetchCanonicalSnapshot(`https://ximinhu66.github.io/PT-Universe/apps/qf-tool/data/dashboard.json?v=${Date.now()}`, `./data/dashboard.json?t=${Date.now()}`);
     if (!response.ok) throw new Error("unavailable");
     renderData(await response.json());
   } catch { renderData(fallback); }
@@ -119,3 +125,4 @@ $("saveJournal").addEventListener("click", () => {
 });
 
 calculate(); renderWishes(); renderJournal(); refresh();
+
